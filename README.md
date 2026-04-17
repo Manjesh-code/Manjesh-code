@@ -13,7 +13,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.Tech CSE at **Gautam Buddha University, Greater Noida** (2025–Present)
-- 🏆 **Sopra Steria Scholar** Batch 2025
+- 🏆 **Sopra Steria Scholar Batch** 2025
 - 💡 Passionate about **technology, coding, and innovation**
 - 🔧 Enjoy exploring how systems work and building **smart, practical solutions**
 - 📚 Always eager to **learn, grow, and contribute** to the world of technology
