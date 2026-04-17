@@ -1,6 +1,6 @@
 <!-- Animated Header SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Manjesh+Kumar;B.Tech+CSE+Student+%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%9A%80;Sopra+Steria+Scholar+2025+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Manjesh+Kumar;B.Tech+CSE+Student+%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%9A%80;Sopra+Steria+Scholar+2025+%F0%F%8F%86" alt="Typing SVG" />
 </p>
 
 <!-- Animated Profile Views Counter -->
@@ -78,14 +78,6 @@
   <a href="https://github.com/manjeshkumar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=181717" />
   </a>
-</p>
-
----
-
-### 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manjeshkumar/manjeshkumar/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
