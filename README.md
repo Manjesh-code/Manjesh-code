@@ -18,7 +18,7 @@
 - 🔧 Enjoy exploring how systems work and building **smart, practical solutions**
 - 📚 Always eager to **learn, grow, and contribute** to the world of technology
 - 🎯 Open to volunteer for: **Education, Science & Technology**
-- 📧 Reach me: **manjesh@example.com** *(update with real email)*
+- 📧 Reach me: **manjesh.kumar.cs@gmail.com**
 
 ---
 
@@ -28,8 +28,6 @@
 |-------------|--------|------|-------|
 | **Gautam Buddha University, Greater Noida** | B.Tech, Computer & Information Sciences | 2025–Present | -- |
 | **Panchsheel Balak Inter College** | 12th, Science (PCM) | -- | 79.6% |
-
-**Skills learned:** Java, C Programming, Object-oriented Languages, Engineering
 
 ---
 
@@ -47,11 +45,11 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,git,github,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
 </p>
-
-**Programming Languages:** Java, C, Python  
-**Concepts:** OOP, DSA, Problem Solving
 
 ---
 
@@ -74,7 +72,7 @@
   <a href="https://www.linkedin.com/in/manjeshkumar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=0077B5" />
   </a>
-  <a href="mailto:manjesh@example.com">
+  <a href="mailto:manjesh.kumar.cs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=D14836" />
   </a>
   <a href="https://github.com/manjeshkumar">
