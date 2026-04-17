@@ -26,7 +26,7 @@
 
 | Institution | Degree | Year | Grade |
 |-------------|--------|------|-------|
-| **Gautam Buddha University, Greater Noida** | B.Tech, Computer & Information Sciences | 2025–Present | -- |
+| **Gautam Buddha University, Greater Noida** | B.Tech, Computer Science & Information Technology | 2025–Present | -- |
 | **Panchsheel Balak Inter College** | 12th, Science (PCM) | 2023-25 | 79.6% |
 
 ---
